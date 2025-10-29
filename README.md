@@ -7,7 +7,7 @@ A simple and elegant HTTP client class for Node.js with a promise-based API. Thi
 **Vega Freelanceuideveloper**
 - 🌐 GitHub: [@freelanceuideveloper](https://github.com/freelanceuideveloper)
 - 📧 Email: iam@freelanceuideveloper.com
-- 💼 Portfolio: [freelanceuideveloper.com]
+- 💼 Portfolio: [https://freelanceuideveloper.com]
 
 ## Features
 
@@ -283,20 +283,3 @@ See the `examples` directory for more usage examples.
 ## License
 
 MIT
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## Changelog
-
-### 1.0.0
-- Initial release
-- Support for all HTTP methods
-- Promise-based API
-- TypeScript declarations
-- Configurable timeouts and headers
