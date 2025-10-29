@@ -1,0 +1,38 @@
+{
+  "name": "node-http-class",
+  "version": "1.0.0",
+  "description": "A simple and elegant HTTP client class for Node.js with promise-based API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test/test.js",
+    "example": "node examples/example.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "http",
+    "client",
+    "request",
+    "api",
+    "nodejs",
+    "promise",
+    "class"
+  ],
+  "author": {
+    "name": "Vega - Freelance UI Developer",
+    "email": "iam@freelanceuideveloper.com",
+    "url": "https://github.com/freelanceuideveloper"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freelanceuideveloper/node-http-class.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freelanceuideveloper/node-http-class/issues"
+  },
+  "homepage": "https://github.com/freelanceuideveloper/node-http-class#readme"
+}
